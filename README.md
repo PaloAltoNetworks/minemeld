@@ -16,7 +16,7 @@ There are 3 main repos for the MineMeld source code:
 
 ## Community
 You can meet the MineMeld community:
-- in the MineMeld section of the Palo Alto Networks live community https://live.paloaltonetworks.com/MineMeld
+- in the MineMeld section of the Palo Alto Networks live community http://go.paloaltonetworks.com/minemeld
 - on the #minemeld channel of the pan-community Slack team (https://pan-community.net/)
 
 You don't need to be a Palo Alto Networks customer to join the communities !
